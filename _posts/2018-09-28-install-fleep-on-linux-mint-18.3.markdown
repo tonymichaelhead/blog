@@ -8,6 +8,12 @@ If you have tried to install Fleep on your Linux Mint 18.3 distro, only to get s
 
 As it turns out, there Fleep doesn't have an official package built for Linux Mint 18.3, but fear not! Linux Mint is actually based off of Ubuntu, so all we need to do is add the repository for the corresponding Ubuntu package and install it. I have installed and am using Fleep on Linux Mint 18.3, so I needed to run the Fleep's official build for Ubuntu 16.04 (Xenial). The steps are as follows:
 
+Add repository
+
+update repositories
+
+install 
+
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

@@ -30,4 +30,8 @@ By running the above commandss you will:
 ---  
 <br>
 That's it! If you enjoyed this quick tutorial or have any questions please leave a comment below.
+<br>
+<br>
+<br>
+{% include disqus.html %}
 
